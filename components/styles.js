@@ -11,11 +11,11 @@ let style = {
   containerBefore: {
     content: '',
     position: 'absolute',
-    top: 0,
-    left: 18,
-    height: '100%',
+    top: 20,
+    left: 17,
+    bottom: 20,
     width: 2,
-    background: '#a0b2b8'
+    background: 'rgb(233, 240, 245)'
   },
   containerAfter: {
     content: '',
